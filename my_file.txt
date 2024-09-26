@@ -1,0 +1,6 @@
+Line 1: This is the first line.
+Line 2: The number is 1234.
+Line 3: Here's a mix of text and number 5678.
+Line 4: This is an appended line.
+Line 5: Another appended line with number 4321.
+Line 6: Final line, more text with number 8765.
